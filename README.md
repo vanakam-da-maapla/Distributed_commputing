@@ -1,27 +1,27 @@
 # Distributed_commputing
 Conpents and notes of distributed computing will be uploaded
-##Models and cuts
+## Models and cuts
 
-##Logical time
+## Logical time
 
-##Snapshots
+## Snapshots
 
-###FIFO
+### FIFO
 
-####Chandy–Lamport algorithm
+#### Chandy–Lamport algorithm
 
-###Non-FIFO
+### Non-FIFO
 
-####Lai–Yang algorithm
-####Li et al.’s algorithm
-####Mattern’s algorithm
+#### Lai–Yang algorithm
+#### Li et al.’s algorithm
+#### Mattern’s algorithm
 
-##Casual ordering
+## Casual ordering
 
-##Termination detection
+## Termination detection
 
-###Termination detection by weight throwing
+### Termination detection by weight throwing
 
-###A spanning-tree-based termination detection algorithm
+### A spanning-tree-based termination detection algorithm
 
-###Message-optimal termination detection
+### Message-optimal termination detection
