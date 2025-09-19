@@ -1,4 +1,4 @@
-# Distributed_commputing
+# Distributed_computing
 Conpents and notes of distributed computing will be uploaded
 ## Models and cuts
 
